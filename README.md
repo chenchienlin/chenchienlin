@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack Lin 👋
 
-## I'm now a software engineer intern
+## I'm a software engineer intern
 
 - 👔 I'm currently working on machine learning API 🤖
 - ✨ I’m looking for a full-time job
