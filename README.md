@@ -1,10 +1,10 @@
 ### Hi there, I'm Jack Lin 👋
 
-## I'm a software engineer intern
+## I'm a software engineer
 
 - 👔 I'm currently working on machine learning API 🤖
 - ✨ I’m looking for a full-time job
-- ❤️‍🔥 2021 Goal: Handle a major task unaided 👌
+<!-- - ❤️‍🔥 2022 Goal:  👌 -->
 - ⚡ Fun fact: I love Neo Soul
 
 ### Connect with me:
